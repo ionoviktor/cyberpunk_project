@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Archangelsk';
+    src: local('Archangelsk'), local('Archangelsk'),
+        url('../fonts/Archangelsk.ttf') format('ttf');
+    font-weight: 400;
+    font-style: normal;
+}
